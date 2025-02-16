@@ -1,0 +1,37 @@
+{
+    "en": {
+        "register_title": "Register",
+        "members_name": "Member's Name",
+        "email": "Email",
+        "password": "Password",
+        "mobile_number": "Mobile Number",
+        "profession": "Profession",
+        "address": "Address",
+        "class": "Class (For Students)",
+        "service": "Name of the service (Which service you wish to avail)",
+        "subject": "Subject",
+        "others": "Others",
+        "already_account": "Already have an account?",
+        "register": "Register",
+        "profile_pic": "Profile Picture",
+        "img_format": "Image successfully converted to WebP format!"
+    },
+    "bn": {
+        "register_title": "নিবন্ধন",
+        "members_name": "সদস্যের নাম",
+        "email": "ই-মেইল",
+        "password": "পাসওয়ার্ড",
+        "mobile_number": "মোবাইল নং",
+        "profession": "পেশা",
+        "address": "ঠিকানা",
+        "class": "শ্রেণী (ছাত্র/ছাত্রীদের ক্ষেত্রে)",
+        "service": "সেবা কার্যক্রমের নাম (যে সেবা গ্রহণে ইচ্ছুক)",
+        "subject": "বিষয়",
+        "others": "অন্যান্য",
+        "already_account": "ইতিমধ্যেই একটি অ্যাকাউন্ট আছে?",
+        "register_login": "লগইন",
+        "register": "নিবন্ধন",
+        "profile_pic": "প্রোফাইল ছবি",
+        "img_format": "ছবিটি সফলভাবে WebP ফর্ম্যাটে রূপান্তরিত হয়েছে!"
+    }
+}

@@ -1,0 +1,86 @@
+{
+  "en": {
+    "rules_title": "Rules Our Library",
+    "description": "We provide a wide range of resources for your needs.",
+    "member_rules_title": "Library Membership Rules",
+    "member_rules_description": "All students and other residents of Bhairab Upazila, including those from Gojaria village, are invited to become members of the Golam Maola Memorial Library.",
+    "member_rules_thanks": "With thanks,",
+    "member_rules_committee": "Executive Committee",
+    "member_rules_organization": "Golam Maola Memorial Library",
+    "member_rules_address": "Gojaria, Bhairab, Kishoreganj.",
+    "member_rules_content": [
+      {
+        "member_rules": "Any student, child, adolescent, male or female, who is a Bangladeshi and a permanent resident of Bhairab Upazila can become a member of Golam Maula Memorial Library. Student members must be studying in at least 3rd grade."
+      },
+      {
+        "member_rules": "Upon submission of an application for membership, membership will be granted on the condition of paying the prescribed admission fee and monthly subscription based on the approval of the president."
+      },
+      {
+        "member_rules": "Admission fee: 50/- Taka, Monthly subscription: 20/- Taka."
+      }
+    ],
+    "user_rules_title": "Library Usage Rules",
+    "user_rules_content": [
+      {
+        "user_rules": "No textbooks, reference books and newspapers will be issued from the library or any member will be able to take the said books home."
+   },
+   {
+         "user_rules": "Residents of Gazaria village who are members of Golam Maula Memorial Library, except for the above books, can borrow any book for a maximum of 07 days. If they are not returned within 07 days, a fine of Tk. 20/- (Twenty Taka) will be imposed per day. However, any member can reissue the book before 07 days."
+   },
+   {
+       "user_rules": "No kind of gossip or chatter will be allowed inside the library. Silence should be maintained while in the library. If there is a need to talk, one should speak in a low voice as much as possible."
+   },
+   {
+       "user_rules": "No kind of bag or own book/newspaper can be brought inside the library. If anything like this is brought, it should be deposited with the librarian and used in the library." 
+   },
+   {
+      "user_rules": "Everyone's mobile phone should be kept in silent mode in the library."
+   },
+   {
+       "user_rules": "Golam Maula Memorial Library will follow government rules for holidays other than weekends and other special holidays."
+   }
+    ]
+  },
+  "bn": {
+    "rules_title": "আমাদের লাইব্রেরির নিয়ম",
+    "description": "আমরা আপনার প্রয়োজনের জন্য বিস্তৃত পরিসরের রিসোর্স প্রদান করি।",
+    "member_rules_title": "পাঠাগারের সদস্য হওয়ার নিয়মাবলীঃ",
+    "member_rules_description": "গজারিয়া গ্রামসহ ভৈরব উপজেলার সকল শিক্ষার্থী ও অন্যান্য ব্যক্তিদের গোলাম মাওলা স্মৃতি পাঠাগারের সদস্য হওয়ার জন্য আহ্বান করা হচ্ছে।",
+    "member_rules_thanks": "ধন্যবাদান্তে,",
+    "member_rules_committee": "কার্যকরী কমিটি",
+    "member_rules_organization": "গোলাম মাওলা স্মৃতি পাঠাগার",
+    "member_rules_address": "গজারিয়া, ভৈরব, কিশোরগঞ্জ।",
+    "user_rules_title": "পাঠাগার ব্যবহারের নিয়মাবলী",
+    "member_rules_content": [
+      {
+        "member_rules": "বাংলাদেশী এবং ভৈরব উপজেলার স্থায়ী বাসিন্দা যেকোনো ছাত্র/ছাত্রী, শিশু-কিশোর, নারী-পুরুষ গোলাম মাওলা স্মৃতি পাঠাগারের সদস্য হতে পারবেন। শিক্ষার্থী সদস্যদের কমপক্ষে ৩য় শ্রেণীতে অধ্যয়নরত হতে হবে।"
+      },
+      {
+        "member_rules": "সদস্য হওয়ার জন্য আবেদনপত্র দাখিল করতে হবে, যা সভাপতি অনুমোদন করবেন। এর পর নির্ধারিত ভর্তি ফি ও মাসিক চাঁদা জমা দেয়ার মাধ্যমে সদস্যপদ প্রদান করা হবে।"
+      },
+      {
+        "member_rules": "ভর্তি ফি ৫০ টাকা, মাসিক চাঁদা ২০ টাকা।"
+      }
+    ],
+    "user_rules_content": [
+      {
+        "user_rules": "পাঠাগার থেকে কোনো পাঠ্যবই, রেফারেন্স বই এবং সংবাদপত্র ইস্যু করা যাবে না বা কোনো সদস্য উক্ত বই বাড়ি নিয়ে যেতে পারবেন না।"
+   },
+   {
+         "user_rules": "গজারিয়া গ্রামের অধিবাসী যারা গোলাম মাওলা স্মৃতি পাঠাগারের সদস্য, তারা উপরোক্ত বইসমূহ ছাড়া অন্য কোনো বই সর্বোচ্চ ৭ দিনের জন্য ধার নিতে পারবেন। ৭ দিনের মধ্যে ফেরত না দিলে প্রতিদিন ২০ টাকা হারে জরিমানা করা হবে। তবে ৭ দিনের পূর্বে কোনো সদস্য বইটি পুনঃইস্যু করতে পারবেন।"
+   },
+   {
+       "user_rules": "পাঠাগারের অভ্যন্তরে কোনো ধরনের গল্পগুজব বা আড্ডা দেওয়া যাবে না। পাঠাগারে অবস্থানকালে নীরবতা বজায় রাখতে হবে। কথা বলার প্রয়োজন হলে যথাসম্ভব নিচু স্বরে কথা বলতে হবে।"
+   },
+   {
+       "user_rules": "পাঠাগারের অভ্যন্তরে কোনো প্রকার ব্যাগ বা নিজস্ব বই/সংবাদপত্র আনা যাবে না। এ ধরনের কিছু আনলে তা লাইব্রেরীয়ানের কাছে জমা দিয়ে পাঠাগার ব্যবহার করতে হবে।" 
+   },
+   {
+      "user_rules": "পাঠাগারে সবার মোবাইল ফোন সাইলেন্ট মোডে রাখতে হবে।"
+   },
+   {
+       "user_rules": "গোলাম মাওলা স্মৃতি পাঠাগার সাপ্তাহিক ছুটি ও অন্যান্য বিশেষ ছুটি ছাড়া অন্যান্য ছুটির ক্ষেত্রে সরকারি নিয়ম অনুসরণ করবে।"
+   }
+    ]
+  }
+}

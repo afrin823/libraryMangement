@@ -1,0 +1,23 @@
+{
+    "en": {
+        "login_title": "Login",
+        "login_name": "Name",
+        "login_email": "Email",
+        "login_psw": "Password",
+        "login_enter_psw": "Enter your password",
+        "login_account": "Don't have an Account?",
+        "login_register": "Register",
+        "login_login": "Login"
+      
+    },
+    "bn": {
+        "login_title": "লগইন",
+        "login_name": "নাম",
+        "login_email": "ইমেল",
+        "login_psw": "পাসওয়ার্ড",
+        "login_enter_psw": "আপনার পাসওয়ার্ড লিখুন",
+        "login_account": "কোন অ্যাকাউন্ট নেই?",
+        "login_register": "নিবন্ধন",
+        "login_login": "লগইন"
+    }
+}

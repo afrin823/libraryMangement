@@ -1,0 +1,46 @@
+{
+    "en": {
+        "contact_title": "CONTACT US",
+        "contact_sub_title": "Lorem ipsum dolor sit amet.",
+        "contact_card_title1": "title1",
+        "contact_card_title2": "title2",
+        "contact_card_title3": "title3",
+        "contact_card_title4": "title4",
+        "contact_card_description1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem corporis corrupti et eveniet ad. Dolorum iure sint rem possimus quod?",
+        "contact_card_description2": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem corporis corrupti et eveniet ad. Dolorum iure sint rem possimus quod?",
+        "contact_card_description3": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem corporis corrupti et eveniet ad. Dolorum iure sint rem possimus quod?",
+        "contact_card_description4": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem corporis corrupti et eveniet ad. Dolorum iure sint rem possimus quod?",
+        "contact_input_name": "Name",
+        "contact_input_number": "Mobile number",
+        "contact_input_message": "Your message",
+        "contact_send_message": "Send",
+        "contact_map_title": "Directly Contact Us",
+        "contact_msg_email": "info@betechlab.com",
+        "contact_msg_wpp": "+8801*******",
+        "contact_msg_location": "Gazaria, Bhairab, Kishoreganj",
+        "contact_flw_us": "Follow Us"
+
+
+    },
+    "bn": {
+        "contact_title": "যোগাযোগ করুন",
+        "contact_sub_title": "লোরেম ইপসাম ডলর সিট অ্যামেট।",
+        "contact_card_title1": "শিরোনাম ১",
+        "contact_card_title2": "শিরোনাম 2",
+        "contact_card_title3": "শিরোনাম 3",
+        "contact_card_title4": "শিরোনাম 4",
+        "contact_card_description1": "লোরেম ইপসাম ডলর সিট, অ্যামেট কনসেক্টetur আদিপিসিং এলিট। এক্সারসিটেশনেম কর্পোরিস করাপ্টি এভেনিয়েট অ্যাড। ডলোরাম জুরে সিন্ট রেম পসসিমাস কুয়ড?",
+        "contact_card_description2": "লোরেম ইপসাম ডলর সিট, অ্যামেট কনসেক্টetur আদিপিসিং এলিট। এক্সারসিটেশনেম কর্পোরিস করাপ্টি এভেনিয়েট অ্যাড। ডলোরাম জুরে সিন্ট রেম পসসিমাস কুয়ড?",
+        "contact_card_description3": "লোরেম ইপসাম ডলর সিট, অ্যামেট কনসেক্টetur আদিপিসিং এলিট। এক্সারসিটেশনেম কর্পোরিস করাপ্টি এভেনিয়েট অ্যাড। ডলোরাম জুরে সিন্ট রেম পসসিমাস কুয়ড?",
+        "contact_card_description4": "লোরেম ইপসাম ডলর সিট, অ্যামেট কনসেক্টetur আদিপিসিং এলিট। এক্সারসিটেশনেম কর্পোরিস করাপ্টি এভেনিয়েট অ্যাড। ডলোরাম জুরে সিন্ট রেম পসসিমাস কুয়ড?",
+        "contact_input_name": "নাম",
+        "contact_input_number": "মোবাইল নম্বর",
+        "contact_input_message": "আপনার বার্তা",
+        "contact_send_message": "পাঠান",
+        "contact_map_title": "সরাসরি আমাদের সাথে যোগাযোগ করুন",
+        "contact_msg_email": "info@betechlab.com",
+        "contact_msg_wpp": "+8801*******",
+        "contact_msg_location": "গজারিয়া ভৈরব কিশোরগঞ্জ",
+        "contact_flw_us": "আমাদের অনুসরণ করুন"
+    }
+}

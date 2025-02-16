@@ -1,0 +1,22 @@
+{
+    "en": {
+        "books_title": "Books",
+        "book_refresh_btn": "Refresh",
+        "book_search_btn": "Search",
+        "book_loading": "Loading...",
+        "book_loading_more": "Loading more...",
+        "book_load_more": "Load More",
+        "book_no_more_boos": "No more books",
+        "book_search": "Book Search"
+    },
+    "bn": {
+        "books_title": "বই",
+        "book_refresh_btn": "রিফ্রেশ",
+        "book_search_btn": "অনুসন্ধান",
+        "book_loading": "লোডিং...",
+        "book_loading_more": "আরো লোড হচ্ছে...",
+        "book_load_more": "আরো লোড করুন",
+        "book_no_more_boos": "আর বই নেই",
+        "book_search": "বই অনুসন্ধান"
+    }
+}
