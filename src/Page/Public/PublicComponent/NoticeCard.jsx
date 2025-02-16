@@ -10,7 +10,7 @@ const NoticeCard = ({ notice }) => {
     <div className={contextDiv}>
       <h6 className={title}>{notice?.title[i18n.language]}</h6>
       <p className="text-justify">
-        {notice.description[i18n.language].length > 250
+        {notice?.description[i18n.language].length > 250
           ? notice.description[i18n.language].slice(0, 250) + "..."
           : notice.description[i18n.language]}
       </p>

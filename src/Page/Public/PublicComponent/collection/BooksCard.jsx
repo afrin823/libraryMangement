@@ -7,7 +7,7 @@ const BooksCard = ({ collection }) => {
 
   const ratings = collection.rating || [];
   const averageRating = ratings.length > 0
-    ? ratings.reduce((acc, rating) => acc + rating, 0) / ratings.length
+    ? ratings.reduce((acc, rating) => acc + rating, 0) / ratings.length || 1
     : 0;
     
 
