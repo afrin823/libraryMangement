@@ -5,6 +5,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { AuthProvider } from "./AuthProvider/AuthProvider.jsx";
 import "./config/languageConfigure/i18n.js";
 import "./index.css";
+import Contact from "./Page/Public/Contact/Contact.jsx";
 
 // Lazy loading components
 const Dashboard = lazy(() => import("./MainLayout/Dashboard.jsx"));
@@ -46,7 +47,7 @@ ReactDOM.createRoot(root).render(
               <Route path="scholarship" element={<Scholarship />} />
               <Route path="scholarship-information" element={<ScholarshipInformation />} />
               <Route path="about" element={<About />} />
-              <Route path="contact" element={<ContactForm />} />
+              <Route path="contact" element={<Contact />} />
               <Route path="register" element={<Register />} />
               <Route path="login" element={<Login />} />
               <Route path="event-details/:id" element={<EventDetails />} />
